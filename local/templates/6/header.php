@@ -54,11 +54,11 @@ global $USER;
     <div class="container h-100">
         <div class="row h-100 align-items-center justify-content-center text-center">
             <div class="col-lg-10 align-self-end">
-                <h1 class="text-uppercase text-white font-weight-bold">Рыбный совхоз "Корпач"</h1>
+                <h1 class="text-uppercase text-white font-weight-bold">Тестовая страница "Корпач"</h1>
                 <hr class="divider my-4">
             </div>
             <div class="col-lg-8 align-self-baseline">
-                <p class="text-white-75 font-weight-light mb-5">Одно из лучших мест для рыбалки</p>
+                <p class="text-white-75 font-weight-light mb-5">Здесь я пытаюсь</p>
                 <a class="btn btn-primary btn-xl js-scroll-trigger" href="#home">Узнать больше</a><!-- Перемещение по клику к блоку УЗНАТЬ БОЛЬШЕ -->
             </div>
         </div>

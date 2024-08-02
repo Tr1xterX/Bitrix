@@ -1,8 +1,29 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"news", 
-		"/korpach/news.php", 
+		"ex2", 
+		"/example2/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"main", 
+		"/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"korpach", 
+		"/korpach/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"News/test", 
+		"/newsTest/index.php", 
 		Array(), 
 		Array(), 
 		"" 
